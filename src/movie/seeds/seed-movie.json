@@ -1,0 +1,14 @@
+[
+  {
+    "title": "The Matrix",
+    "description": "A hacker discovers a shocking truth.",
+    "image": "matrix.jpg",
+    "categoryId": 5
+  },
+  {
+    "title": "The Godfather",
+    "description": "Mafia drama about family and power.",
+    "image": "godfather.jpg",
+    "categoryId": 3
+  }
+]
